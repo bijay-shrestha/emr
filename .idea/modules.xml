@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-server/authserver.iml" filepath="$PROJECT_DIR$/auth-server/authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/context-server/contextserver.iml" filepath="$PROJECT_DIR$/context-server/contextserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edge-server/edgeserver.iml" filepath="$PROJECT_DIR$/edge-server/edgeserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emr.iml" filepath="$PROJECT_DIR$/emr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gallery-server/galleryserver.iml" filepath="$PROJECT_DIR$/gallery-server/galleryserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic-server/genericserver.iml" filepath="$PROJECT_DIR$/generic-server/genericserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naming-server/namingserver.iml" filepath="$PROJECT_DIR$/naming-server/namingserver.iml" />
+    </modules>
+  </component>
+</project>

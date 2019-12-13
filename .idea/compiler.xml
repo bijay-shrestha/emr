@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authserver" />
+        <module name="contextserver" />
+        <module name="edgeserver" />
+        <module name="galleryserver" />
+        <module name="genericserver" />
+        <module name="namingserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authserver" target="1.8" />
+      <module name="contextserver" target="1.8" />
+      <module name="edgeserver" target="1.8" />
+      <module name="emr" target="1.8" />
+      <module name="galleryserver" target="1.8" />
+      <module name="genericserver" target="1.8" />
+      <module name="namingserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
